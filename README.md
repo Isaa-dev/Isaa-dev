@@ -72,19 +72,6 @@ public class Isabella extends Developer {
 ![Git](https://img.shields.io/badge/Git-00c8ff?style=for-the-badge&logo=git&logoColor=050a0f)
 ![GitHub](https://img.shields.io/badge/GitHub-00c8ff?style=for-the-badge&logo=github&logoColor=050a0f)
 
-</div>
-
----
-
-<!-- SNAKE -->
-<div align="center">
-
-### 🐍 Minhas contribuições sendo devoradas
-
-![snake gif](https://github.com/y.rizzi/y.rizzi/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 <!-- FRASE -->
