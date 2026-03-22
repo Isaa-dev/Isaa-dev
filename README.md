@@ -103,6 +103,4 @@ public class Isabella extends Developer {
 [![Gmail](https://img.shields.io/badge/isa160648@gmail.com-00c8ff?style=for-the-badge&logo=gmail&logoColor=050a0f)](mailto:isa160648@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfólio-00c8ff?style=for-the-badge&logo=firefox&logoColor=050a0f)](https://isaa-dev.github.io/Portfolio-/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=y.rizzi&color=00c8ff&style=for-the-badge&label=VISITAS+AO+PERFIL)
-
 </div>
