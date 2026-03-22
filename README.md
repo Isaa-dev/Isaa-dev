@@ -1,4 +1,4 @@
-<!-- HEADER ANIMADO -->
+!-- HEADER ANIMADO -->
 <div align="center">
 
 ```
@@ -72,6 +72,19 @@ public class Isabella extends Developer {
 ![Git](https://img.shields.io/badge/Git-00c8ff?style=for-the-badge&logo=git&logoColor=050a0f)
 ![GitHub](https://img.shields.io/badge/GitHub-00c8ff?style=for-the-badge&logo=github&logoColor=050a0f)
 
+</div>
+
+---
+
+<!-- SNAKE -->
+<div align="center">
+
+### 🐍 Minhas contribuições sendo devoradas
+
+![snake gif](https://github.com/y.rizzi/y.rizzi/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
 ---
 
 <!-- FRASE -->
@@ -88,20 +101,8 @@ public class Isabella extends Developer {
 ### 📬 Conecte-se comigo
 
 [![Gmail](https://img.shields.io/badge/isa160648@gmail.com-00c8ff?style=for-the-badge&logo=gmail&logoColor=050a0f)](mailto:isa160648@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfólio-00c8ff?style=for-the-badge&logo=firefox&logoColor=050a0f)](https://isaa-dev.github.io/Portfolio-/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=y.rizzi&color=00c8ff&style=for-the-badge&label=VISITAS+AO+PERFIL)
 
 </div>
-
-<!--
-**Isaa-dev/Isaa-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
