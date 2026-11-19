@@ -1,4 +1,4 @@
-<!-- HEADER ANIMADO -->
+<!-- HEADER -->
 <div align="center">
 
 ```
@@ -10,51 +10,47 @@
 ╚═╝╚══════╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-### `> Full Stack Developer_`
+### `> where bugs become solutions_`
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=500&lines=Java+%7C+SQL+%7C+HTML+%7C+CSS;Building+robust+%26+elegant+systems;Back-end+meets+Front-end;Always+learning%2C+always+shipping+%F0%9F%9A%80)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=B9AEF7&center=true&vCenter=true&width=560&lines=Jr.+IT+Analyst+%40+Seta+Tech;Software+Development+%26+Systems+Support;React+%7C+TypeScript+%7C+Firebase+%7C+Python;Always+learning%2C+always+shipping+%F0%9F%9A%80)
+
+[![Portfólio](https://img.shields.io/badge/Portfólio-B9AEF7?style=for-the-badge&logo=googlechrome&logoColor=141319)](https://isaa-dev.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-B9AEF7?style=for-the-badge&logo=linkedin&logoColor=141319)](https://www.linkedin.com/in/isabella-correia-rizzi-20b419217)
+[![Email](https://img.shields.io/badge/isa160648@gmail.com-B9AEF7?style=for-the-badge&logo=gmail&logoColor=141319)](mailto:isa160648@gmail.com)
 
 </div>
 
 ---
 
 <!-- BIO -->
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-```java
-public class Isabella extends Developer {
-
-    String name     = "Isabella Rizzi";
-    String role     = "Full Stack Developer";
-    String location = "Brasil 🇧🇷";
-
-    String[] stack  = {
-        "Java", "SQL",
-        "HTML5", "CSS3"
-    };
-
-    String status   = "Disponível para projetos ✅";
-
-    String passion() {
-        return "Transformar lógica em experiências";
-    }
-}
+```ts
+const isabella = {
+  name: "Isabella Rizzi",
+  role: "Analista de TI Jr. @ Seta Tech",
+  location: "São Paulo, Brasil 🇧🇷",
+  focus: ["Desenvolvimento de Software", "Suporte a Sistemas"],
+  stack: ["React", "TypeScript", "Firebase", "Python"],
+  studying: "Análise e Desenvolvimento de Sistemas @ FAM",
+  origin: "comecei no atendimento — hoje escrevo o código",
+  motto: () => "onde o erro vira solução",
+};
 ```
 
 <br clear="right"/>
 
 ---
 
-<!-- STATS -->
-<div align="center">
+<!-- PROJETOS -->
+### 🚀 Projetos em destaque
 
-### ⚡ GitHub Stats
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=y.rizzi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050a0f&title_color=00c8ff&icon_color=00c8ff&text_color=c8e6f5"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=y.rizzi&layout=compact&theme=tokyonight&hide_border=true&bg_color=050a0f&title_color=00c8ff&text_color=c8e6f5"/>
-
-</div>
+| Projeto | O que é | Stack |
+|---|---|---|
+| **[OptiLLM-Gateway](https://github.com/Isaa-dev/optillm-gateway)** · [demo ao vivo](https://optillm-gateway-zl5n.onrender.com) | Gateway para APIs de IA com controle de custo, mascaramento de dados pessoais, cache, rate limit e fallback entre provedores | Python · Flask · SQLite · Tailwind |
+| **Escalify** | SaaS de escalonamento de equipes com painel admin e confirmações em tempo real | React · TypeScript · Firestore |
+| **[Manifestando Bondade](https://github.com/Isaa-dev/projeto-manifestando-bondade)** | Sistema de inscrição para um Natal Solidário, com formulário em etapas e painel privado da equipe | JavaScript · Apps Script · Sheets |
+| **[Declarô](https://github.com/Isaa-dev/Saas-Declar-)** · _em desenvolvimento_ | Assistente de Imposto de Renda com IA | React · TypeScript · Gemini |
 
 ---
 
@@ -63,25 +59,34 @@ public class Isabella extends Developer {
 
 ### 🛠️ Tech Stack
 
-![Java](https://img.shields.io/badge/Java-00c8ff?style=for-the-badge&logo=openjdk&logoColor=050a0f)
-![SQL](https://img.shields.io/badge/SQL-00c8ff?style=for-the-badge&logo=mysql&logoColor=050a0f)
-![HTML5](https://img.shields.io/badge/HTML5-00c8ff?style=for-the-badge&logo=html5&logoColor=050a0f)
-![CSS3](https://img.shields.io/badge/CSS3-00c8ff?style=for-the-badge&logo=css3&logoColor=050a0f)
-![Spring](https://img.shields.io/badge/Spring-00c8ff?style=for-the-badge&logo=spring&logoColor=050a0f)
-![MySQL](https://img.shields.io/badge/MySQL-00c8ff?style=for-the-badge&logo=mysql&logoColor=050a0f)
-![Git](https://img.shields.io/badge/Git-00c8ff?style=for-the-badge&logo=git&logoColor=050a0f)
-![GitHub](https://img.shields.io/badge/GitHub-00c8ff?style=for-the-badge&logo=github&logoColor=050a0f)
+![React](https://img.shields.io/badge/React-B9AEF7?style=for-the-badge&logo=react&logoColor=141319)
+![TypeScript](https://img.shields.io/badge/TypeScript-B9AEF7?style=for-the-badge&logo=typescript&logoColor=141319)
+![Firebase](https://img.shields.io/badge/Firebase-B9AEF7?style=for-the-badge&logo=firebase&logoColor=141319)
+![Python](https://img.shields.io/badge/Python-B9AEF7?style=for-the-badge&logo=python&logoColor=141319)
+![Flask](https://img.shields.io/badge/Flask-B9AEF7?style=for-the-badge&logo=flask&logoColor=141319)
+![Tailwind](https://img.shields.io/badge/Tailwind-B9AEF7?style=for-the-badge&logo=tailwindcss&logoColor=141319)
+
+![Java](https://img.shields.io/badge/Java-2A2733?style=for-the-badge&logo=openjdk&logoColor=B9AEF7)
+![SQL](https://img.shields.io/badge/SQL-2A2733?style=for-the-badge&logo=mysql&logoColor=B9AEF7)
+![HTML5](https://img.shields.io/badge/HTML5-2A2733?style=for-the-badge&logo=html5&logoColor=B9AEF7)
+![CSS3](https://img.shields.io/badge/CSS3-2A2733?style=for-the-badge&logo=css&logoColor=B9AEF7)
+![Git](https://img.shields.io/badge/Git-2A2733?style=for-the-badge&logo=git&logoColor=B9AEF7)
 
 </div>
 
 ---
 
-<!-- SNAKE -->
+<!-- STATS -->
 <div align="center">
+
+### ⚡ GitHub Stats
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isaa-dev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=141319&title_color=B9AEF7&icon_color=B9AEF7&text_color=E6E3F0"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaa-dev&layout=compact&hide_border=true&bg_color=141319&title_color=B9AEF7&text_color=E6E3F0"/>
 
 ### 🐍 Minhas contribuições sendo devoradas
 
-![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Isaa-dev/Isaa-dev/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -92,15 +97,10 @@ public class Isabella extends Developer {
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  "Um sistema bem feito é invisível para o usuário,  ║
-║   mas inestimável para o negócio."                  ║
-║                                        — Isabella   ║
+║  "Um sistema bem feito é invisível para o usuário,   ║
+║   mas inestimável para o negócio."                   ║
+║                                        — Isabella    ║
 ╚══════════════════════════════════════════════════════╝
 ```
-
-### 📬 Conecte-se comigo
-
-[![Gmail](https://img.shields.io/badge/isa160648@gmail.com-00c8ff?style=for-the-badge&logo=gmail&logoColor=050a0f)](mailto:isa160648@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfólio-00c8ff?style=for-the-badge&logo=firefox&logoColor=050a0f)](https://isaa-dev.github.io/Portfolio-/)
 
 </div>
